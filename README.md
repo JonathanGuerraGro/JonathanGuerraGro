@@ -1,18 +1,19 @@
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h2 align = center>Hey, I'm Jonathan Guerra 🙂</h2>
+<h3 align = center>Front-end Web Developer 💻 | Mexican 🇲🇽</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Vue, Angular and NodeJS on LaunchX by Innovacción Virtual - Microsoft**
-
-- 📫 How to reach me **alexguerragro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathan alexander guerra guerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan alexander guerra guerrero" height="30" width="40" /></a>
-<a href="https://instagram.com/jonathan_agg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathan_agg02" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![Twitter: Jonathan_AlexG](https://img.shields.io/twitter/follow/Jonathan_AlexG?style=social)](https://twitter.com/Jonathan_AlexG)
+[![Linkedin: Jonathan Alexander Guerra Guerrero](https://img.shields.io/badge/-JonathanGuerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guerragro/)](https://www.linkedin.com/in/jonathan-guerragro/)
 
 
+```javascript
+const Jonathan = {
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
+  tools: ['React', 'Node'],
+  Hobbies: ['Photography', 'Motion Graphics', 'Movies']
+}
+```
 
+<h3 >About me 👇</h3>
 
+* I studied Multimedia Design Engineering at UNACAR 🎓
+* I studied Front-end and Back-end at LaunchX by Innovacción Virtual - Microsoft 👨‍💻
