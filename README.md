@@ -7,8 +7,8 @@
 
 ```javascript
 const Jonathan = {
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
-  tools: ['React', 'Node'],
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['Vue', 'Vuex', 'Node'],
   Hobbies: ['Photography', 'Motion Graphics', 'Movies']
 }
 ```
