@@ -1,5 +1,5 @@
-<h2 align="center">Hey, I'm Jonathan Guerra 🙂</h2>
-<h3 align="center">Front-end Web Developer 💻 | Mexican 🇲🇽</h3>
+### Hey, I'm Jonathan Guerra 🙂
+### Front-end Web Developer 💻 | Mexican 🇲🇽
 
 ---
 
