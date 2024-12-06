@@ -42,4 +42,5 @@ ESLint, Sonar, Snyk, Husky
 
 ### 📬 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-guerragro/)
+[![LinkedIn: Jonathan Guerra Guerrero](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-guerragro/)
+
